@@ -4,3 +4,5 @@ import './styles/main.scss'
 
 console.log(generateJoke())
 // console.log(nanoid())
+
+// document.querySelector('div.container').innerHTML += "<h1>Ready to update</h1>"
